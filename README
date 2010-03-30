@@ -1,3 +1,10 @@
 Collection af ZenPacks for Zenoss
 ###################################
-ZenPacks.community.AvailabilityReportPerGroup-1.0-py2.4.egg --> Adds a report with the availability for a selected group of devices
+ZenPacks.community.AvailabilityReportPerGroup-1.0-py2.4.egg
+---
+Adds a report with the availability for a selected group of devices
+
+ZenPacks.puzzle.VMReportXen-1.0-py2.4.egg 
+---
+Adds a report which ists all virtual machines and the virtualization hosts they are running on.
+
